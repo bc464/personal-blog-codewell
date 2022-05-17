@@ -28,3 +28,5 @@ If you want more real-time communication, you can visit our community on [Slack]
 
 https://fonts.google.com/specimen/Inter
 # personal-blog-codewell
+The End Result:
+![Screenshot 2022-05-17 at 17-53-11 Personal-Blog](https://user-images.githubusercontent.com/82536545/168855208-6538f605-890d-4614-a1fe-d39f89394620.png)
